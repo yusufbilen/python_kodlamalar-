@@ -1,4 +1,4 @@
-# Deniz Yazıcı 10.01.2022
+# Yusuf Bilen 10.01.2022
 
 #soru 1
 # print('merhaba bu benim ilk python kodum.')
